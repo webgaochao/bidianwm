@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T03:43:24.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="I44Un3zlNpv5QMjy6ReO" version="18.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-12T03:44:14.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="egqJl38XR1HW68WwI16h" version="18.0.2" type="github" pages="3">
   <diagram id="tyHgqEIjU6o3Pv9ZOMte" name="财务管理-交易流水">
     <mxGraphModel dx="1271" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GKvXPI7WmXs6MXb6UKPw-2" value="填写对应数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GKvXPI7WmXs6MXb6UKPw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvXPI7WmXs6MXb6UKPw-4" target="GKvXPI7WmXs6MXb6UKPw-6">
           <mxGeometry relative="1" as="geometry" />
@@ -239,19 +239,20 @@
         <mxCell id="GKvXPI7WmXs6MXb6UKPw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKvXPI7WmXs6MXb6UKPw-4" target="GKvXPI7WmXs6MXb6UKPw-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="385" />
-              <mxPoint x="490" y="200" />
+              <mxPoint x="480" y="305" />
+              <mxPoint x="480" y="250" />
+              <mxPoint x="540" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GKvXPI7WmXs6MXb6UKPw-4" value="确定" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="370" width="76" height="30" as="geometry" />
+          <mxGeometry x="376" y="290" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GKvXPI7WmXs6MXb6UKPw-6" value="返回列表页面刷新数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GKvXPI7WmXs6MXb6UKPw-8" value="勾选立即发布状态为已上线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="120" height="120" as="geometry" />
+          <mxGeometry x="480" y="70" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
